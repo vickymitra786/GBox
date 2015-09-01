@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GBox</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="null_response">Error retrieving data!</string>
+    <string name="no_subscriber_found">No subscriber found</string>
+    <string name="google_play_service_required">Google Play Services required: \" +\n</string>
+    <string name="gmail_api_quick_start">Gmail API Android Quickstart</string>
+    <string name="account_unspecified">Account unspecified.</string>
+    <string name="no_network_connection">No network connection available.</string>
+    <string name="fetching_subscribers">Fetching subscribers...</string>
+</resources>
